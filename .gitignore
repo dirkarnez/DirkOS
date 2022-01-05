@@ -1,2 +1,5 @@
-/flp
-/main.iso
+build
+
+*.flp
+*.iso
+*.img

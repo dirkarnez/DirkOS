@@ -8,3 +8,6 @@ DirkOS
 - Linux Kernel
   - https://github.com/zavg/linux-0.01/blob/master/boot/boot.s
  
+### Tools download
+- https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/win64/
+- https://sourceforge.net/projects/cdrtools/files/alpha/win32/
