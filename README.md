@@ -11,6 +11,11 @@ DirkOS
 ### Tutorials
 - [Write Your Own 64-bit Operating System Kernel #1 - Boot code and multiboot header - YouTube](https://www.youtube.com/watch?v=FkrpUaGThTQ)
 - [Write Your Own 64-bit Operating System Kernel #2 - Stack, long mode and printing using C code - YouTube](https://www.youtube.com/watch?v=wz9CZBeXR6U)
+- [I designed my own 8-bit computer just to play PONG - YouTube](https://www.youtube.com/watch?v=7A1SzIIKMho)
+- [I made an entire OS that only runs Tetris - YouTube](https://www.youtube.com/watch?v=FaILnmUYS_U)
+  - [jdah/tetris-os](https://github.com/jdah/tetris-os)
+  - [jdah/jdh-8: An 8-bit minicomputer with a fully custom architecture](https://github.com/jdah/jdh-8)
+
 ### Tools download
 - https://www.nasm.us/pub/nasm/releasebuilds/2.15.05/win64/
 - https://sourceforge.net/projects/cdrtools/files/alpha/win32/
